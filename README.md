@@ -1,7 +1,7 @@
 # Seattle Weather Project
 
-> A brief description of what the project does and its purpose.
-Analyze and compare precipitation between Seattle, Saint Louis, and New York
+> 
+Analyze and compare precipitation between Seattle and New York.
 ---
 
 ## Project Overview
