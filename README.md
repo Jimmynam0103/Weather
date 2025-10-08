@@ -28,20 +28,32 @@ This project explores precipitation trends in Seattle, WA and New York City, NY 
 ## Data
 
 - **Source:** National Centers for Enviornmental Information: (https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
-- **Description:** Date, Precipitation, City Name
+- **Description:** STATION, NAME, DATE, DAPR, MDPR, PRCP, SNOW, SNWD, WESD, WESF
 - **License:**
 
 ---
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+Analysis was conducted in Python using Jupyter Notebook.
+
+Main Analysis Methods:
+1. Open code/Weather_Data.ipynb
+2. Run all cells in order
+    - Load and inspect data set
+    - Convert data types of columns of the data frames to the correct type
+    - Clean Data (Removing unnecessary parts)
+    - Impute missing data (NaN values)
+    - Join the Seattle and New York City data frames [Date], [Precipitation]
+    - Ensure using tidy
+    - Rename columns
+    - Create data visualizations
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+According to the comparison of montly proportion of days of precipitatin between Seattle and New York City, Seattle has more rainfall compared to New York City.
 
 ---
 
