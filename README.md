@@ -5,11 +5,11 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project explores precipitation trends in Seattle, WA and New York City, NY to understand seasonal rainfall difference.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** Compare and visualize rainfall difference between Seattle, WA and New York, NY using Python.
+- **Domain:** Climate Analytics
+- **Key Techniques:** Data Inspection, Data Manipulation, Data Cleaning, Tidy, Matplotlib, Seaborn, Data Visualization
 
 ---
 
@@ -27,9 +27,9 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+- **Source:** National Centers for Enviornmental Information: (https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
+- **Description:** Date, Precipitation, City Name
+- **License:**
 
 ---
 
@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+- Tools/libraries: Python, Pandas, Numpy, Matplotlib, Seaborn
+- Data Source: NOAA Climate data Online
+- Inspiration: Climate Analysis
 # Weather
