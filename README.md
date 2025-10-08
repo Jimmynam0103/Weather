@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Data Source: NOAA Climate data Online
 - Inspiration: Climate Analysis
 
-### Seattle Weather Project
+> Seattle Weather Project
