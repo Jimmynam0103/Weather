@@ -1,7 +1,6 @@
 # Seattle Weather Project
 
-> 
-Analyze and compare precipitation between Seattle and New York.
+> Analyze and compare precipitation between Seattle and New York.
 ---
 
 ## Project Overview
